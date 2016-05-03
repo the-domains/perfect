@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[perfect]]></title>
         <description><![CDATA[perfect]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/perfect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 17:00:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 17:00:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/perfect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Confidential - Steve Jobs on "Think Different" - Internal Meeting Sept. 23, 1997]]></title>
+            <description><![CDATA[<article><h1>Apple Confidential - Steve Jobs on "Think Different" - Internal Meeting Sept. 23, 1997</h1><p>1997. Steve Jobs in shorts, relaxed, during internal meeting with Apple executives and managers, just a few weeks after his return to Apple, speaks briefly about planned changes in company (pipeline, products, distribution changes) and then presents first informations about planned "Think Different" campaign, now legendary and iconic...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ebeaadc606d27103c14b914f63958f461213e22.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=9GMQhOm-Dqo</link>
+            <guid isPermaLink="false">e2021476-811b-4137-b9db-d25dff67219a</guid>
+            <pubDate>Tue, 03 May 2016 17:00:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Everything You Think You Know About Addiction Is Wrong | Johann Hari | TED Talks]]></title>
             <description><![CDATA[<article><h1>Everything You Think You Know About Addiction Is Wrong | Johann Hari | TED Talks</h1><p>What really causes addiction - to everything from cocaine to smart-phones? And how can we overcome it? Johann Hari has seen our current methods fail firsthand, as he has watched loved ones struggle to manage their addictions. He started to wonder why we treat addicts the way we do - and if there might be a better way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d4b5a0cf26fc48cb5a231645db27921b00a2edf.jpg"></article>]]></description>
