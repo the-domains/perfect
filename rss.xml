@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[perfect]]></title>
+        <description><![CDATA[perfect]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 17:00:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Everything You Think You Know About Addiction Is Wrong | Johann Hari | TED Talks]]></title>
+            <description><![CDATA[<article><h1>Everything You Think You Know About Addiction Is Wrong | Johann Hari | TED Talks</h1><p>What really causes addiction - to everything from cocaine to smart-phones? And how can we overcome it? Johann Hari has seen our current methods fail firsthand, as he has watched loved ones struggle to manage their addictions. He started to wonder why we treat addicts the way we do - and if there might be a better way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d4b5a0cf26fc48cb5a231645db27921b00a2edf.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=PY9DcIMGxMs</link>
+            <guid isPermaLink="false">af5aa11b-6d92-4b41-af9a-b4452d18f111</guid>
+            <pubDate>Tue, 03 May 2016 16:59:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
