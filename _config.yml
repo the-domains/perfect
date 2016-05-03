@@ -1,4 +1,4 @@
-name: perfect
+name: Inspire
 favicon: null
 layout_spectrum: 0.7140294143464416
 typography_spectrum: 0.02987055736593902
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5983919193968177
-  lightness: 0.9559697539079934
-  saturation: 0.17994660534895957
-  rhythmicContrast: 0.43049291451461613
+    - '#1f1e1d'
+    - '#ffffff'
+    - '#c6c6c6'
+    - '#64635f'
+    - '#92918a'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
